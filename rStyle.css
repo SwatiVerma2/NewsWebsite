@@ -1,0 +1,16 @@
+#SV{
+  margin-top: 4px;
+  background: #564ea1 !important;
+}
+nav a:hover{
+  border-radius: 10px;
+  padding: 5px;
+  background: #564ea1 !important;
+
+}
+.card {
+  margin: 30px;
+}
+body{
+  background: #5D6D7E ;
+}
